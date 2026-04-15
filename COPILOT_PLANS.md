@@ -12,23 +12,23 @@ GitHub Copilot offers 5 subscription tiers — 3 for individuals and 2 for organ
 
 ### What is the difference in Premium requests, Chat/agent mode and Code completions?
 
-#### 1. Code Completions (the inline ghost text)
+#### 1. Code Completions (the inline text)
         You're typing in VS Code:
         
             def calculate_tax(income, rate): # ← you pause here
         
-        Copilot shows grey ghost text: return income * rate / 10
+        Copilot shows grey text: return income * rate / 10
         
         You press Tab to accept. That's 1 code completion. This happens automatically as you type — no prompt needed. On Free plan,
         you get 2,000 of these/month. On paid plans, unlimited.
 
-#### 2. Chat/Agent Mode (conversations like this one)
+#### 2. Chat/Agent Mode (conversations)
 
         You open Copilot Chat and type: 
         
             "Refactor this function to handle negative income and add unit tests"
 
-        Copilot reads your code, generates a refactored version, writes tests, maybe edits multiple files. That's 1 chat/agent request. Right now, this conversation IS agent mode — each message you send me = 1 request.
+        Copilot reads your code, generates a refactored version, writes tests, maybe edits multiple files. That's 1 chat/agent request.
 
 #### 3. Premium Requests (the cost layer)
 
@@ -40,7 +40,7 @@ GitHub Copilot offers 5 subscription tiers — 3 for individuals and 2 for organ
    
        Using GPT-5 mini (0x):   0 premium requests deducted  ← FREE on paid plans
        Using Sonnet 4.6 (1x):   1 premium request deducted
-       Using Opus 4.6 (3x):     3 premium requests deducted  ← what you're using NOW
+       Using Opus 4.6 (3x):     3 premium requests deducted  ← Expensive one
 
 ### GitHub Copilot's billing is entirely request-based, not token-based:
 
