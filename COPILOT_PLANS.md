@@ -46,7 +46,12 @@ GitHub Copilot offers 5 subscription tiers — 3 for individuals and 2 for organ
 
 <img width="837" height="204" alt="image" src="https://github.com/user-attachments/assets/bc131911-0418-442a-b87f-69b58b1509a3" />
 
-### 3. How do I know which Copilot plan I am using:
+### 3. What does Premium Request Multipliers mean:
+
+<img width="809" height="245" alt="image" src="https://github.com/user-attachments/assets/3562b347-830d-4aea-a869-365f7c0a9f5a" />
+
+
+### 4. How do I know which Copilot plan I am using:
 
   #### Go to https://github.com/settings/copilot/features
 
